@@ -1,0 +1,126 @@
+step 4000, FiveKNewSplit | discriminator accuracy | train: 2.025, test: 0.506
+generator losses | test: 142.3 | content: 9.078, color: 69.32, texture: -5.665, tv: 0.01125 | psnr: 21.01, ms-ssim: 0.9559
+
+step 8000, FiveKNewSplit | discriminator accuracy | train: 2.192, test: 0.6865
+generator losses | test: 125.4 | content: 7.744, color: 60.24, texture: -4.834, tv: 0.01132 | psnr: 21.38, ms-ssim: 0.9551
+
+step 12000, FiveKNewSplit | discriminator accuracy | train: 2.278, test: 0.6488
+generator losses | test: 116.8 | content: 7.01, color: 57.05, texture: -5.106, tv: 0.01162 | psnr: 21.66, ms-ssim: 0.9591
+
+step 16000, FiveKNewSplit | discriminator accuracy | train: 2.309, test: 0.6409
+generator losses | test: 110.5 | content: 6.471, color: 54.17, texture: -5.151, tv: 0.01193 | psnr: 21.87, ms-ssim: 0.9634
+
+step 20000, FiveKNewSplit | discriminator accuracy | train: 2.31, test: 0.6012
+generator losses | test: 108 | content: 6.278, color: 52.27, texture: -5.339, tv: 0.01219 | psnr: 22.02, ms-ssim: 0.9655
+
+step 24000, FiveKNewSplit | discriminator accuracy | train: 2.337, test: 0.6488
+generator losses | test: 109.5 | content: 6.42, color: 53.47, texture: -5.017, tv: 0.0118 | psnr: 21.94, ms-ssim: 0.9642
+
+step 28000, FiveKNewSplit | discriminator accuracy | train: 2.35, test: 0.5575
+generator losses | test: 106.9 | content: 6.049, color: 52.16, texture: -5.306, tv: 0.01282 | psnr: 22.09, ms-ssim: 0.967
+
+step 32000, FiveKNewSplit | discriminator accuracy | train: 2.411, test: 0.5377
+generator losses | test: 114.7 | content: 6.671, color: 59.58, texture: -6.864, tv: 0.01253 | psnr: 21.75, ms-ssim: 0.966
+
+step 36000, FiveKNewSplit | discriminator accuracy | train: 2.544, test: 0.6885
+generator losses | test: 109.1 | content: 5.951, color: 53.81, texture: -4.836, tv: 0.01375 | psnr: 22.03, ms-ssim: 0.9664
+
+step 40000, FiveKNewSplit | discriminator accuracy | train: 2.631, test: 0.6706
+generator losses | test: 109.9 | content: 6.064, color: 54.17, texture: -4.603, tv: 0.01338 | psnr: 22.02, ms-ssim: 0.9656
+
+step 44000, FiveKNewSplit | discriminator accuracy | train: 2.752, test: 0.748
+generator losses | test: 115.8 | content: 5.846, color: 64.66, texture: -4.146, tv: 0.01456 | psnr: 21.57, ms-ssim: 0.9671
+
+step 48000, FiveKNewSplit | discriminator accuracy | train: 2.806, test: 0.8611
+generator losses | test: 112.5 | content: 6.101, color: 56.88, texture: -3.082, tv: 0.01305 | psnr: 21.94, ms-ssim: 0.9666
+
+step 52000, FiveKNewSplit | discriminator accuracy | train: 2.828, test: 0.8294
+generator losses | test: 108.1 | content: 5.911, color: 55.53, texture: -3.685, tv: 0.01246 | psnr: 21.97, ms-ssim: 0.966
+
+step 56000, FiveKNewSplit | discriminator accuracy | train: 2.831, test: 0.7976
+generator losses | test: 117.7 | content: 6.255, color: 63.64, texture: -3.77, tv: 0.01358 | psnr: 21.65, ms-ssim: 0.9655
+
+step 60000, FiveKNewSplit | discriminator accuracy | train: 2.82, test: 0.7956
+generator losses | test: 120.1 | content: 6.371, color: 68.05, texture: -3.735, tv: 0.01302 | psnr: 21.42, ms-ssim: 0.9639
+
+step 64000, FiveKNewSplit | discriminator accuracy | train: 2.81, test: 0.6786
+generator losses | test: 113.8 | content: 6.211, color: 57.05, texture: -4.723, tv: 0.01396 | psnr: 21.97, ms-ssim: 0.9675
+
+step 68000, FiveKNewSplit | discriminator accuracy | train: 2.763, test: 0.7202
+generator losses | test: 109.6 | content: 5.895, color: 55.7, texture: -4.273, tv: 0.01354 | psnr: 22.03, ms-ssim: 0.9666
+
+step 72000, FiveKNewSplit | discriminator accuracy | train: 2.771, test: 0.7937
+generator losses | test: 111.7 | content: 5.867, color: 57.59, texture: -3.735, tv: 0.014 | psnr: 22.01, ms-ssim: 0.9666
+
+step 76000, FiveKNewSplit | discriminator accuracy | train: 2.745, test: 0.7937
+generator losses | test: 114.3 | content: 6.109, color: 59.99, texture: -3.69, tv: 0.01348 | psnr: 21.86, ms-ssim: 0.9663
+
+step 80000, FiveKNewSplit | discriminator accuracy | train: 2.736, test: 0.7004
+generator losses | test: 113.7 | content: 6.193, color: 58.05, texture: -4.405, tv: 0.01357 | psnr: 21.97, ms-ssim: 0.967
+
+step 84000, FiveKNewSplit | discriminator accuracy | train: 2.743, test: 0.6845
+generator losses | test: 114.9 | content: 6.011, color: 61.39, texture: -4.596, tv: 0.01434 | psnr: 21.84, ms-ssim: 0.9681
+
+step 88000, FiveKNewSplit | discriminator accuracy | train: 2.759, test: 0.7163
+generator losses | test: 115.1 | content: 5.985, color: 62.24, texture: -4.559, tv: 0.01432 | psnr: 21.8, ms-ssim: 0.9674
+
+step 92000, FiveKNewSplit | discriminator accuracy | train: 2.754, test: 0.5952
+generator losses | test: 122.2 | content: 6.393, color: 65.21, texture: -5.026, tv: 0.01533 | psnr: 21.63, ms-ssim: 0.9661
+
+step 96000, FiveKNewSplit | discriminator accuracy | train: 2.742, test: 0.6706
+generator losses | test: 114.6 | content: 5.961, color: 61.44, texture: -4.729, tv: 0.01449 | psnr: 21.78, ms-ssim: 0.967
+
+step 100000, FiveKNewSplit | discriminator accuracy | train: 2.727, test: 0.7837
+generator losses | test: 120.8 | content: 6.036, color: 69.33, texture: -3.695, tv: 0.01473 | psnr: 21.53, ms-ssim: 0.9677
+
+step 104000, FiveKNewSplit | discriminator accuracy | train: 2.732, test: 0.7579
+generator losses | test: 113.8 | content: 5.9, color: 62.2, texture: -4.041, tv: 0.01387 | psnr: 21.73, ms-ssim: 0.9653
+
+step 108000, FiveKNewSplit | discriminator accuracy | train: 2.711, test: 0.6806
+generator losses | test: 123.9 | content: 6.168, color: 74.24, texture: -4.65, tv: 0.01489 | psnr: 21.39, ms-ssim: 0.9677
+
+step 112000, FiveKNewSplit | discriminator accuracy | train: 2.713, test: 0.6825
+generator losses | test: 119.1 | content: 6.001, color: 65.86, texture: -4.754, tv: 0.01544 | psnr: 21.65, ms-ssim: 0.9662
+
+step 116000, FiveKNewSplit | discriminator accuracy | train: 2.708, test: 0.756
+generator losses | test: 118.9 | content: 6.171, color: 66.01, texture: -3.906, tv: 0.01407 | psnr: 21.67, ms-ssim: 0.966
+
+step 120000, FiveKNewSplit | discriminator accuracy | train: 2.705, test: 0.6964
+generator losses | test: 114.9 | content: 5.796, color: 65.03, texture: -4.576, tv: 0.01449 | psnr: 21.67, ms-ssim: 0.9676
+
+step 124000, FiveKNewSplit | discriminator accuracy | train: 2.718, test: 0.7401
+generator losses | test: 116.8 | content: 5.88, color: 65.13, texture: -4.187, tv: 0.01479 | psnr: 21.7, ms-ssim: 0.9666
+
+step 128000, FiveKNewSplit | discriminator accuracy | train: 2.718, test: 0.7341
+generator losses | test: 117.7 | content: 5.987, color: 66.72, texture: -4.307, tv: 0.01436 | psnr: 21.62, ms-ssim: 0.9666
+
+step 132000, FiveKNewSplit | discriminator accuracy | train: 2.718, test: 0.6528
+generator losses | test: 116.7 | content: 5.989, color: 63.87, texture: -4.689, tv: 0.0148 | psnr: 21.78, ms-ssim: 0.9677
+
+step 136000, FiveKNewSplit | discriminator accuracy | train: 2.708, test: 0.631
+generator losses | test: 120 | content: 6.197, color: 67.1, texture: -5.085, tv: 0.01477 | psnr: 21.6, ms-ssim: 0.9637
+
+step 140000, FiveKNewSplit | discriminator accuracy | train: 2.704, test: 0.6607
+generator losses | test: 124.5 | content: 6.156, color: 75.76, texture: -4.847, tv: 0.01493 | psnr: 21.29, ms-ssim: 0.967
+
+step 144000, FiveKNewSplit | discriminator accuracy | train: 2.708, test: 0.6766
+generator losses | test: 120.8 | content: 6.047, color: 72.98, texture: -4.69, tv: 0.01425 | psnr: 21.34, ms-ssim: 0.9653
+
+step 148000, FiveKNewSplit | discriminator accuracy | train: 2.704, test: 0.6885
+generator losses | test: 115.7 | content: 5.851, color: 66.18, texture: -4.701, tv: 0.0144 | psnr: 21.63, ms-ssim: 0.9654
+
+step 152000, FiveKNewSplit | discriminator accuracy | train: 2.706, test: 0.6488
+generator losses | test: 118 | content: 5.954, color: 65.03, texture: -4.771, tv: 0.01537 | psnr: 21.68, ms-ssim: 0.9658
+
+step 156000, FiveKNewSplit | discriminator accuracy | train: 2.721, test: 0.6488
+generator losses | test: 118.5 | content: 5.894, color: 67.63, texture: -4.917, tv: 0.01533 | psnr: 21.61, ms-ssim: 0.9665
+
+step 160000, FiveKNewSplit | discriminator accuracy | train: 2.714, test: 0.7103
+generator losses | test: 122 | content: 6.348, color: 66.49, texture: -4.65, tv: 0.01495 | psnr: 21.64, ms-ssim: 0.9672
+
+step 164000, FiveKNewSplit | discriminator accuracy | train: 2.7, test: 0.7123
+generator losses | test: 115.6 | content: 6.006, color: 63.9, texture: -4.459, tv: 0.01402 | psnr: 21.83, ms-ssim: 0.9677
+
+step 168000, FiveKNewSplit | discriminator accuracy | train: 2.704, test: 0.7044
+generator losses | test: 115.8 | content: 5.828, color: 65.59, texture: -4.365, tv: 0.01454 | psnr: 21.71, ms-ssim: 0.9664
+
