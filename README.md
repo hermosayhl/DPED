@@ -40,7 +40,7 @@ The code is ugly for my random modification. But I have achieved **24.064**db  a
 
    中途训练的一些视觉对比结果保存在了 ./visual_results/ 目录下
 
-   <img src="D:\work\Retouching\DPED\visual_results\iteration_18000.png" style="zoom:200%;" />
+   <img src="./visual_results/iteration_18000.png" style="zoom:200%;" />
 
 3. **测试 test**
 
